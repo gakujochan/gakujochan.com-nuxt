@@ -1,20 +1,14 @@
 <template>
   <div>
-    <Navbar />
-    <Header />
-    <Main />
-    <Footer />
+    <h1>gakujochan.com-nuxt</h1>
+    <p>Hello, world!</p>
   </div>
 </template>
 
 <script>
-import Navbar from "~/components/Navbar.vue";
-import Header from "~/components/Header.vue";
-import Main from "~/components/Main.vue";
-import Footer from "~/components/Footer.vue";
 export default {
   name: "IndexPage",
-  components: { Navbar, Header, Main, Footer },
+  layout: "default",
 };
 </script>
 
