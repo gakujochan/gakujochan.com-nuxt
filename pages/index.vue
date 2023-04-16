@@ -1,84 +1,144 @@
 <template>
   <div>
-    <h1>gakujochan.com-nuxt</h1>
-    <p>Hello, world!</p>
+    <h1>「学情チャン」って何？</h1>
+    <p>
+      学情チャンは、全国の大学が抱えてる学生さん向けポータルサイトをイメージして生まれたんだ!<br />
+      だからあんまり過激なことをしちゃうと怒られちゃうかも～?
+    </p>
+    <br />
+    <h1>学情チャンの創作をしてくれるユーザーさんへ</h1>
+    <p>
+      いつも学情チャンの創作をしてくれてるユーザーさんに見てほしい事をまとめたページを作ったよ！<br />
+    </p>
+    <p>
+      <a href="index.php?p=forcreator">詳しくはこちらをチェックしてみてね！</a>
+    </p>
+    <br />
+    <h1>ユーザーさんへのお知らせだよ!</h1>
+    <p>
+      <a href="https://tawataso.com/gakujoaddon/"
+        ><img
+          src="img\slideshow\GakujoTextCount.png"
+          width="100%"
+          style="margin-bottom: 5px"
+      /></a>
+      <a href="index.php?p=rules"
+        ><img
+          src="img/slideshow/promises.png"
+          width="100%"
+          style="margin-bottom: 5px"
+      /></a>
+      <a href="index.php?p=MoreBetterGakujo"
+        ><img
+          src="img/slideshow/MoreBetterGakujo.png"
+          width="100%"
+          style="margin-bottom: 5px"
+      /></a>
+    </p>
+    <br />
+    <a name="oyakudachi"></a>
+    <h1>学情お役立ちツールだよ！</h1>
+    <p>
+      ここでは学情をもっと使いやすくするためのお役立ちツールを紹介するよ！<br />
+      今のところ紹介してるツールは静岡大学向けと新潟大学むけがあるよ！<br />
+    </p>
+    <br />
+    <h2>静岡大学向け gakujo-google-calendar</h2>
+    <p>
+      学情から情報を取って、自動的にGoogleカレンダーに追加するよ!<br />
+      いっつも課題を忘れちゃう困ったユーザーさんもこれを使えばちゃんと提出できるかも！？<br />
+      <a
+        href="https://github.com/earlgray283/gakujo-google-calendar/blob/main/WINDOWS.md"
+        style="font-size: 18px"
+        >詳しくはこちら！</a
+      >
+    </p>
+    <br />
+    <h2>静岡大学向け GakujoTextCount（別サイト）</h2>
+    <p>
+      ユーザーさんがいつも使っている学情がとっても便利になるアドオンだよ！<br />
+      なんと！戻るボタンが使えるようになるんだって！！<br />
+      他にも簡単に授業動画を確認できるようになったり、レポートの文字数を確認できるようになったみたいだよ！<br />
+      パソコン版のFireFox,MSEdge,Chromeに対応してるからぜひ使ってみてね！<br />
+    </p>
+    <p>
+      <a href="https://tawataso.com/gakujoaddon/" style="font-size: 18px"
+        >詳しくはこちら！</a
+      >
+    </p>
+    <p>
+      <a href="https://twitter.com/yuratwc" style="font-size: 10px"
+        >制作者さんのTwitter</a
+      >
+    </p>
+    <br />
+    <h2>新潟大学向け MoreBetterGakujo</h2>
+    <p>
+      新潟大学のユーザがいっつも使ってる学情がもっと便利になるよ! <br />
+      なんかね、レポートとかが綺麗に並べ替えされたりとか、時間を自動で延長できたりするみたいだよ！<br />
+      ぜひ使ってみてね！<br />
+    </p>
+    <p>
+      <a href="index.php?p=MoreBetterGakujo" style="font-size: 18px"
+        >詳しくはこちら！</a
+      >
+    </p>
+    <p>
+      <a href="https://twitter.com/koji_genba" style="font-size: 10px"
+        >制作者さんのTwitter</a
+      >
+    </p>
+    <br />
+    <h1>更新履歴</h1>
+    <p>
+      <b>2022/03/02</b><br />
+      ・「学情チャンのうた」ページを作成しました。
+    </p>
+    <p>
+      <b>2021/12/18</b><br />
+      ・学習チャンのうたについての情報を更新しました。
+    </p>
+    <p>
+      <b>2021/12/12</b><br />
+      ・「第3回 描いたよ学情チャンコンテスト」の募集を開始しました。
+    </p>
+    <p>
+      <b>2021/08/20</b><br />
+      ・「第1回 書いたよ学情チャンコンテスト」の募集を開始しました。<br />
+      ・「創作ガイドライン」を公開しました。<br />
+      ・新たにリンク集を設置しました。
+    </p>
+    <p>
+      <b>2021/08/16</b><br />
+      ・「第2回 学情チャンイラストコンテスト」の募集を開始しました。<br />
+    </p>
+    <p>
+      <b>2021/06/20</b><br />
+      ・「第1回 学情チャンイラストコンテスト」の結果を発表しました。<br />
+      ・「コンテスト」に「第1回
+      エッチだね学情チャンコンテスト」のお知らせを掲載しました。
+    </p>
+    <p>
+      <b>2021/06/12</b><br />
+      ・「第1回 学情チャンイラストコンテスト」の応募は終了しました。
+    </p>
+    <p>
+      <b>2021/06/06</b><br />
+      ・「設定資料」を「資料集」に変更しました。<br />
+      ・「資料集」にバナー画像を追加しました。<br />
+      ・デザイン及びプログラムの調整を行いました。
+    </p>
+    <p>
+      <b>2021/06/04</b><br />
+      ・ウェブサイトのデザインをリニューアルしました。
+    </p>
+    <p>
+      <b>2021/05/29</b><br />
+      ・学情チャン公式ウェブサイトを開設しました。
+    </p>
+    <p>
+      <b>2021/05/28</b><br />
+      ・「学情チャンとのお約束」を作成しました。
+    </p>
   </div>
 </template>
-
-<script>
-export default {
-  name: "IndexPage",
-  layout: "default",
-};
-</script>
-
-<style>
-* {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  font-family: "Noto Sans JP", sans-serif;
-  font-size: 14px;
-  line-height: 20px;
-}
-
-.navbar,
-.header,
-.wrapper {
-  width: 950px;
-  margin: auto;
-}
-
-.wrapper h1 {
-  margin-top: 16px;
-  margin-bottom: 20px;
-  padding: 6px 0;
-  font-size: 26px;
-  font-weight: bold;
-  color: #0063b1;
-  line-height: 32px;
-  border-bottom: solid 3px #0063b14d;
-}
-
-.wrapper h2 {
-  margin: 18px 0;
-  padding: 6px 0;
-  font-size: 20px;
-  font-weight: bold;
-  color: #0063b1;
-  line-height: 24px;
-  border-bottom: solid 2px #0063b14d;
-}
-
-.wrapper h3 {
-  margin-top: 24px;
-  margin-bottom: 12px;
-  font-size: 16px;
-  font-weight: bold;
-  color: #0063b1;
-  line-height: 24px;
-}
-
-.wrapper ul {
-  margin: 14px;
-}
-
-.wrapper li {
-  font-size: 18px;
-  margin: 8px 5px;
-}
-
-.wrapper p {
-  margin: 10px 0;
-  font-size: 14px;
-  line-height: 22px;
-  color: #333;
-}
-
-.wrapper hr {
-  margin: 10px 0;
-  border-top: solid 1px #0063b14d;
-}
-</style>
