@@ -1,0 +1,161 @@
+<template>
+  <div>
+    <h1>コンテスト</h1>
+    <h2>第4回 学情チャンイラストコンテスト(終了）</h2>
+    <p>
+      2022年3月から4月30日にかけて行われた学情チャンの4回目の読み物コンテストだよ!
+    </p>
+    <p>
+      でき上がった作品は
+      <a
+        href="https://twitter.com/hashtag/%E7%AC%AC4%E5%9B%9E%E5%AD%A6art%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88?src=hashtag_click"
+        >#第4回学artコンテスト</a
+      >
+      に投稿にしてくれたよ！<br />
+      結果発表の特設ページは<a href="index.php?p=illustcon_4">こちら！</a>
+    </p>
+
+    <!-- 第3回 学情チャンイラストコンテスト -->
+    <a name="illustcon_3"></a>
+    <h2>第3回 学情チャンイラストコンテスト</h2>
+    <p>
+      第3回学情チャンイラストコンテストの結果発表を1/21の22：30からYouTubeでするよ！<br />
+      詳しくはこちらの<a href="index.php?p=illustcon_3" style="font: size 18px"
+        >特設ページ</a
+      >で見てね
+    </p>
+    <br />
+
+    <!-- 第1回 「こんな学情チャンは嫌だ！」コンテスト -->
+    <a name="iyadagakujo1"></a>
+    <h2>第1回 「こんな学情チャンは嫌だ！」コンテスト</h2>
+    <p>
+      えっと、その……第1回「こんな学情チャンは嫌だ！」コンテストの開催が決定したよ。<br />
+      期限は11月5日の23時59分までだって。<br />
+      参加する人いるのかな……？<br />
+      <b>参加方法は簡単！</b><br />
+      ハッシュタグ<a
+        href="https://twitter.com/hashtag/%E3%81%93%E3%82%93%E3%81%AA%E5%AD%A6%E6%83%85%E3%83%81%E3%83%A3%E3%83%B3%E3%81%AF%E5%AB%8C%E3%81%A0?src=hashtag_click"
+        >「#こんな学情チャンは嫌だ 」</a
+      >にユーザーさんが考えたいや～な学情チャンを書いてツイートするだけ、、、みたいだよ<br />
+      たっっっくさんの応募、待ってるね！！
+    </p>
+    <br />
+
+    <!-- 第1回 書いたよ学情チャンコンテスト -->
+    <a name="writecon_1"></a>
+    <h2>第1回 書いたよ学情チャンコンテスト(終了)</h2>
+    <p>
+      <img src="img/slideshow/write_1.png" width="100%" />
+    </p>
+    <p>
+      2021年8月15日から9月15日にかけて行われた学情チャンの一回目の読み物コンテストだよ！
+    </p>
+    <br />
+
+    <!-- 第2回 学情チャンイラストコンテスト -->
+    <a name="illustcon_2"></a>
+    <h2>第2回 学情チャンイラストコンテスト（終了）</h2>
+    <p>
+      <img src="img/slideshow/illustcon_2.png" width="100%" />
+    </p>
+    <p>
+      2021年8月15日から9月15日にかけて行われた学情チャンの2回目のイラコンだよ！<br />
+      みんなが「夏」をテーマに描いてくれた絵を<a
+        href="https://twitter.com/search?q=%23%E7%AC%AC2%E5%9B%9E%E5%AD%A6art%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88&src=typeahead_click"
+        >#第2回学artコンテスト</a
+      >にて応募してもらったよ！<br />
+      とってもいいと思った絵はウェブサイトや、YouTubeにて動画形式で発表したよ！<br />
+    </p>
+    <p>
+      <a href="index.php?p=illustcon_2" style="font-size: 18px"
+        >結果発表サイトはこちら！</a
+      >
+    </p>
+    <br />
+
+    <!-- 第1回 学情チャンイラストコンテスト -->
+    <a name="illustcon_1"></a>
+    <h2>第1回 学情チャンイラストコンテスト（終了）</h2>
+    <p>
+      <img src="img/slideshow/illustcon_1.png" width="100%" />
+    </p>
+    <p>
+      ユーザーさんが描いてくれた絵を学情チャンが審査するよ！<br />
+      とってもいいと思った絵はこのサイトで表彰するから楽しみにしててね！<br />
+    </p>
+    <p>
+      <a href="index.php?p=illustcon_1" style="font-size: 18px"
+        >結果発表はこちら！</a
+      >
+    </p>
+    <br />
+    <blockquote class="twitter-tweet">
+      <p lang="ja" dir="ltr">
+        第一回学情チャンイラストコンテストにたくさんの人が参加してくれてうれしいな！<br />このツイートをもって<br />応募を締め切るよ！
+      </p>
+      &mdash; 学情チャン (@Gakuzyo_chan)
+      <a
+        href="https://twitter.com/Gakuzyo_chan/status/1403728974031691781?ref_src=twsrc%5Etfw"
+        >June 12, 2021</a
+      >
+    </blockquote>
+    <script
+      async
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
+    <blockquote class="twitter-tweet">
+      <p lang="ja" dir="ltr">
+        第1回学情チャンイラストコンテスト開催けってーい！みんなが
+        <a
+          href="https://twitter.com/hashtag/%E7%AC%AC1%E5%9B%9E%E5%AD%A6art%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88?src=hash&amp;ref_src=twsrc%5Etfw"
+          >#第1回学artコンテスト</a
+        >
+        に応募してくれたイラストを学情チャンが審査して、好きだった作品はホームページで掲載するよ！<br />期限は6月１２日の23:59まで！！<br />みんなの応募、待ってるね！
+      </p>
+      &mdash; 学情チャン (@Gakuzyo_chan)
+      <a
+        href="https://twitter.com/Gakuzyo_chan/status/1398927160274952193?ref_src=twsrc%5Etfw"
+        >May 30, 2021</a
+      >
+    </blockquote>
+    <script
+      async
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
+    <br />
+
+    <!-- 第1回 エッチだね学情チャンコンテスト -->
+    <a name="r18con_1"></a>
+    <h2>第1回 エッチだね学情チャンコンテスト（終了）</h2>
+    <p>
+      <img src="img/slideshow/r18con_1.png" width="100%" />
+    </p>
+    <p>
+      みんながTwitterハッシュタグ「#エッチだね学情チャン」で応募してくれたイラスト、CG、動画、SSなどをオトナな学情チャンが審査して、とてもえっちな作品はこのサイトで掲載するよ！<br />
+    </p>
+    <br />
+    <blockquote class="twitter-tweet">
+      <p lang="ja" dir="ltr">
+        第1回えっちだね学情チャンコンテスト開催けってーい！<br />みんなが
+        <a
+          href="https://twitter.com/hashtag/%E3%82%A8%E3%83%83%E3%83%81%E3%81%A0%E3%81%AD%E5%AD%A6%E6%83%85%E3%83%81%E3%83%A3%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw"
+          >#エッチだね学情チャン</a
+        >
+        に応募してくれたイラスト、CG、動画、SSなどをオトナな学情チャンが審査して、とてもえっちな作品はホームページで掲載するよ！<br />期限は8月8日の23:59まで！！<br />みんなの応募、待ってるね！
+      </p>
+      &mdash; 学情チャン🔞 (@Gakuzyo18Kin)
+      <a
+        href="https://twitter.com/Gakuzyo18Kin/status/1405879835512037388?ref_src=twsrc%5Etfw"
+        >June 18, 2021</a
+      >
+    </blockquote>
+    <script
+      async
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
+  </div>
+</template>
