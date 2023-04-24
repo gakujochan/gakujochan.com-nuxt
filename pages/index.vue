@@ -11,7 +11,9 @@
       いつも学情チャンの創作をしてくれてるユーザーさんに見てほしい事をまとめたページを作ったよ！<br />
     </p>
     <p>
-      <a href="index.php?p=forcreator">詳しくはこちらをチェックしてみてね！</a>
+      <nuxt-link to="/forcreator"
+        >詳しくはこちらをチェックしてみてね！</nuxt-link
+      >
     </p>
     <br />
     <h1>ユーザーさんへのお知らせだよ!</h1>
@@ -22,18 +24,18 @@
           width="100%"
           style="margin-bottom: 5px"
       /></a>
-      <a href="index.php?p=rules"
+      <nuxt-link to="/rules"
         ><img
           src="img/slideshow/promises.png"
           width="100%"
           style="margin-bottom: 5px"
-      /></a>
-      <a href="index.php?p=MoreBetterGakujo"
+      /></nuxt-link>
+      <nuxt-link to="/MoreBetterGakujo"
         ><img
           src="img/slideshow/MoreBetterGakujo.png"
           width="100%"
           style="margin-bottom: 5px"
-      /></a>
+      /></nuxt-link>
     </p>
     <br />
     <a name="oyakudachi"></a>
@@ -79,8 +81,8 @@
       ぜひ使ってみてね！<br />
     </p>
     <p>
-      <a href="index.php?p=MoreBetterGakujo" style="font-size: 18px"
-        >詳しくはこちら！</a
+      <nuxt-link to="MoreBetterGakujo" style="font-size: 18px"
+        >詳しくはこちら！</nuxt-link
       >
     </p>
     <p>

@@ -12,14 +12,13 @@
 
     <h3>ノーマル（歌なし）バージョン</h3>
     <p>
-      <audio controls src="../music/学情チャンのうた＿カラオケ.mp3"></audio
-      ><br />
+      <audio controls src="/music/学情チャンのうた＿カラオケ.mp3"></audio><br />
       <a
-        href="../music/学情チャンのうた＿カラオケ.mp3"
+        href="/music/学情チャンのうた＿カラオケ.mp3"
         download="学情チャンの催促通知.mp3"
         >MP3形式でダウンロード</a
       ><br />
-      制作者さんが楽譜つきの動画をYouTubeに投稿してるからこっちも見てみてね！
+      制作者さんが楽譜つきの動画をYouTubeに投稿してるからこっちも見てみてね!
     </p>
     <p>
       <iframe
@@ -35,8 +34,8 @@
 
     <h3>ゆっくりバージョン</h3>
     <p>
-      <audio controls src="../music/学情チャンのうた.mp3"></audio><br />
-      <a href="../music/学情チャンのうた.mp3" download="学情チャンのうた.mp3"
+      <audio controls src="/music/学情チャンのうた.mp3"></audio><br />
+      <a href="/music/学情チャンのうた.mp3" download="学情チャンのうた.mp3"
         >MP3形式でダウンロード</a
       ><br />
     </p>
@@ -83,7 +82,7 @@
         allowfullscreen
       ></iframe
       ><br />
-      <a href="../music/カラオケ.wav" download="学情チャンのうた.mp3"
+      <a href="/music/カラオケ.wav" download="学情チャンのうた.mp3"
         >WAV形式でダウンロード</a
       ><br />
     </p>

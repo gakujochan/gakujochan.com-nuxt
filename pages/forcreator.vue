@@ -8,26 +8,26 @@
 
     <ul>
       <li>
-        <a href="index.php?p=rules">”学情チャンとのお約束”ページ</a
+        <nuxt-link to="/rules">”学情チャンとのお約束”ページ</nuxt-link
         >に書いてあることを読んでね！
       </li>
       <li>
-        こっちの<a href="png/Gakujo_Guideline.pdf">創作ガイドライン</a
+        こっちの<a href="/png/Gakujo_Guideline.pdf">創作ガイドライン</a
         >もチェックしてね！
       </li>
       <li>
-        <a href="index.php?p=reference">資料集</a
-        >にある素材は使ってOK！！常識の範囲内で使ってね！
+        <nuxt-link to="/reference">資料集</nuxt-link>にある素材は使ってOK!!
+        常識の範囲内で使ってね!
       </li>
       <li>
-        でも<a href="index.php?p=reference">資料集</a
-        >以外にある物は基本的に使っちゃだめだよ！
+        でも<nuxt-link to="/reference">資料集</nuxt-link
+        >以外にある物は基本的に使っちゃだめだよ!
       </li>
       <li>
         このサイトの資料を使った作品を公開してくれる時は、<a
           href="https://gakujochan.com"
           >このウェブサイトのリンク</a
-        >も一緒に公開してほしいな！
+        >も一緒に公開してほしいな!
       </li>
     </ul>
   </div>

@@ -1,14 +1,14 @@
 <template>
   <div class="navbar">
     <div class="navbar-left">
-      <a href="index.php"><img src="../assets/img/logo.png" /></a>
+      <nuxt-link to="/"><img src="../assets/img/logo.png" /></nuxt-link>
     </div>
     <div class="navbar-right">
       <ul>
-        <a href="index.php?p=reference"><li>資料集</li></a>
-        <a href="index.php?p=song"><li>うた</li></a>
-        <a href="index.php?p=rules"><li>学情チャンとのお約束</li></a>
-        <a href="index.php?p=contest"><li>コンテスト</li></a>
+        <nuxt-link to="reference"><li>資料集</li></nuxt-link>
+        <nuxt-link to="song"><li>うた</li></nuxt-link>
+        <nuxt-link to="rules"><li>学情チャンとのお約束</li></nuxt-link>
+        <nuxt-link to="contest"><li>コンテスト</li></nuxt-link>
       </ul>
     </div>
   </div>
