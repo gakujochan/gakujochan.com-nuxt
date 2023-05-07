@@ -34,7 +34,6 @@ export default {
   css: [
     { src: "~/static/css/slick.css" },
     { src: "~/static/css/slick-theme.css" },
-    { src: "~/static/css/main.css" },
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

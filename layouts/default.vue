@@ -110,6 +110,11 @@ body {
   margin: auto;
 }
 
+.header,
+.wrapper {
+  padding-bottom: 10px;
+}
+
 .wrapper h1 {
   margin-top: 16px;
   margin-bottom: 20px;
@@ -159,5 +164,118 @@ body {
 .wrapper hr {
   margin: 10px 0;
   border-top: solid 1px #0063b14d;
+}
+
+.wrapper summary {
+  cursor: pointer;
+}
+
+.wrapper[open] summary {
+  color: #9e9e9e;
+  animation: fade-in 0.5s ease;
+}
+
+.wrapper summary:hover {
+  cursor: pointer;
+  background-color: aqua;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.wrapper a {
+  color: #0078d7;
+}
+
+.wrapper a:hover {
+  opacity: 0.7;
+}
+
+.wrapper-columns {
+  margin-bottom: 40px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.wrapper-columns-left {
+  width: 300px;
+  float: left;
+}
+
+.wrapper-columns-right {
+  width: 610px;
+  float: right;
+}
+
+.wrapper-columns-twitter {
+  margin-top: 26px;
+  border: solid 3px #0063b14d;
+}
+
+.social {
+  padding-bottom: 2px;
+  padding-right: 5px;
+  vertical-align: middle;
+}
+
+.kabegami p {
+  font-size: 18px;
+}
+
+.kabegami a {
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+  width: 150px;
+  height: 50px;
+  color: #fff;
+  border-radius: 15px;
+  background-color: #0078d7;
+  margin-left: 30px;
+}
+
+.kabegami img {
+  width: 100%;
+}
+
+@media screen and (max-width: 1023px) {
+  .header,
+  .slider img,
+  .wrapper,
+  .wrapper-columns-left,
+  .wrapper-columns-right,
+  .header-logo {
+    width: 100%;
+  }
+
+  .header {
+    margin-top: -15px;
+    margin-bottom: 20px;
+  }
+
+  .wrapper {
+    margin-top: -20px;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
+  .wrapper-columns-right {
+    margin-bottom: 50px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .youtube {
+    width: 100%;
+  }
 }
 </style>
